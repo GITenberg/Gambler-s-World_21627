@@ -1,0 +1,41 @@
+_repo: Gambler-s-World_21627
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laumer, Keith
+    aliases:
+    - Laumer, Kit
+    - Laumer, John Keith
+    birthdate: 1925
+    deathdate: 1993
+    gutenberg_agent_id: '24817'
+    url: http://www.gutenberg.org/2009/agents/24817
+    wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
+description: Greylorn - Commander Greylorn must find a lost colony and beg it to come
+  to Earths aid. But before he can accomplish this he must first survive a mutiny
+  aboard his own star ship. A taut story of interplanetary intrigue and adventure!
+  It Could Be Anything - ?The body shifted, rotating stiffly, then tilted upright.
+  ?The sun struck through the amber shape that flowed down to form itself into the
+  crested wave.? IT COULD BE ANYTHING. Gambler?s World - Unless Retief and his colleague
+  Magnan get to the bottom of Zorn?s gambling operation and play their own games,
+  a whole spaceship?s worth
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Retief (Fictitious character) -- Fiction'
+- !lcc 'PS'
+title: Gambler's World
+url: http://www.gutenberg.org/ebooks/21627
